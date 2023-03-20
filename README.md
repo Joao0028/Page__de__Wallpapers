@@ -8,4 +8,4 @@ Este site foi exclusivamente  desenhado por mim, todo design e etc.
 
 Este site teve uma melhoria onde coloquei um botão que muda a cor do site, com Javascript...
 
-Espero que Goste! - https://joao0028.github.io/Page__wallp__two/
+Espero que Goste! - https://joao0028.github.io/Page__de__Wallpapers/
